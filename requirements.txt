@@ -1,0 +1,6 @@
+pandas
+statsmodels
+matplotlib
+tldextract
+dnspython
+pmdarima
