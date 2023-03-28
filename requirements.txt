@@ -5,3 +5,5 @@ tldextract
 dnspython
 pmdarima
 ip2geotools
+fuzzywuzzy
+python-Levenshtein
