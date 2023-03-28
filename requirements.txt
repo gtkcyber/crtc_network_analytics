@@ -4,3 +4,4 @@ matplotlib
 tldextract
 dnspython
 pmdarima
+ip2geotools
